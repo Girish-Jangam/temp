@@ -1,3 +1,3 @@
 #Hello-World
 
-Have a great day
+Ready!
